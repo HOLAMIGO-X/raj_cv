@@ -82,7 +82,7 @@ export const Hero: React.FC = () => {
       <div className="text-center">
         <div className="relative inline-block mb-8">
           <img
-            src="https://raw.githubusercontent.com/SatvickMalhotra/My-portfolio/main/Pics/Generated%20Image%20September%2008%2C%202025%20-%205_25PM.png"
+            src="https://raw.githubusercontent.com/HOLAMIGO-X/raj_cv/main/cyber%20orange%20%20(1%20of%201).jpg"
             alt="Raj the boss"
             className="w-48 h-48 rounded-full object-cover border-4 border-gray-800/80
                        animate-[halo_8s_ease-in-out_infinite,float_20s_ease-in-out_infinite_alternate]"
@@ -102,3 +102,6 @@ export const Hero: React.FC = () => {
     </section>
   );
 };
+
+
+
